@@ -53,7 +53,7 @@
 
 1.  مخزن پروژه را کلون کنید (یا فایل‌ها را دانلود نمایید):
     ```sh
-    git clone [https://github.com/Amirprx3/SSH-BruteForce.git](https://github.com/Amirprx3/SSH-BruteForce.git)
+    git clone https://github.com/Amirprx3/SSH-BruteForce.git
     ```
 2.  وارد پوشه پروژه شوید:
     ```sh
@@ -95,5 +95,6 @@ python ssh-crackerV2.py -I targets.txt -U usernames.txt -P passwords.txt -t 50 -
 
 ## 👤 سازنده / Author
 این ابزار توسط [*@Amirprx3*](https://t.me/Amirprx3) ساخته شده است.
+
 
 </div>
